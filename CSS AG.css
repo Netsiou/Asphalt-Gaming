@@ -1,0 +1,107 @@
+html, body {
+  
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url("Mans.png");
+  background-size: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+  .texte{
+    background-color: rgba(184, 190, 190, 0);
+    align-content: center; 
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+  }
+  
+  .Titre {
+    text-align: center;
+    padding-top: 20px;
+    width: 100%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+  }
+  
+  .Logo{
+    margin-left: 3cm;
+    width: 20%;
+    border-radius: 0px;
+    padding-top: 3%;
+    display: block;
+    position: absolute; top: -25px; left: -150px;
+
+  }
+
+  p{
+    text-align: center;
+    color: white;
+    font-size: 150%;
+  }
+ 
+  #Discord{
+    width: 6%;
+    position: absolute; top: 6%; right: 1%;
+  }
+
+  nav{
+    width: 100%;
+    background-color:rgb(19, 21, 32)
+  }
+
+  nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+
+  }
+
+  nav li{
+    list-style-type: none;
+    float: left;
+  }
+
+  nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color: #FFF;
+
+  }
+
+  .Page-2:hover{
+    border-top: 5px solid #e44d26;
+    background-color: rgba(228, 77, 38, 0.15)
+
+  }
+
+  
+  .Page-3:hover{
+    border-top: 5px solid #0070bb;
+    background-color: rgba(000, 112, 192, 0.15)
+
+  }
+
+  .Page-4:hover{
+    border-top: 5px solid #f1dc4f;
+    background-color: rgba(241, 211, 79, 0.15)
+
+  }
+
+  nav li:hover a{
+    padding: 15px 30px 20px 30px
+  }
+
+  
+  .table{
+    display: table;
+    margin: 0 auto;
+  }
+ 
+  
+  
